@@ -1,5 +1,8 @@
 # py-playground
 Playground for learning python with cource from acloudguru.
 
-## [pgbackup](pgbackup/) 
-CLI tool for creating a db backup locally/S3
+## [db-backup-tool](db-backup-tool//) 
+CLI tool for creating a postgres db backup locally/to S3
+
+## [hr-tool](hr-tool/)
+CLI tool for exporting user's system info
